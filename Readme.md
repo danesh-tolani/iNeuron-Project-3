@@ -1,4 +1,4 @@
-# Project 2
+# Project 3
 
 Hi, My name is **Danesh Tolani** and I have completed the 3rd Project of the iNeuron Full Stack Course.
 
